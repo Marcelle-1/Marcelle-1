@@ -2,6 +2,7 @@
 
 <p>👩‍💻 Desenvolvedora web</p>
 
+<p>➡ Atualmente estágiaria em análise e desenvolvimento de sistemas na UNISUAM</p>
 <p>➡ Atualmente cursando análise e desenvolvimento de sistemas na UNISUAM</p>
 <p>✔ Bootcamp de desenvolvimento fullstack na Recode Pro</p>
 <p>✔ Bootcamp de desenvolvimento front end na XP Educação</p>
